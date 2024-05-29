@@ -39,7 +39,6 @@ sendNectarTo(address _toAccount, uint _howMany):
 * Transfers Nectar tokens from the caller's address to the specified recipient.
 
 ### Usage
-Compile Contract: Compile the Solidity smart contract using a Solidity compiler such as Hardhat.
 #### To interact with the Nectar ERC20 token contract, follow the steps below:
 
 * Clone Repository: Clone the repository containing the Solidity file onto your local machine.
